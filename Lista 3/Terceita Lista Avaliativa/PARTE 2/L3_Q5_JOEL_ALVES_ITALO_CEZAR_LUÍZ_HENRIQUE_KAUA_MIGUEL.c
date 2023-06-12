@@ -1,0 +1,1 @@
+//Questão 5 parte 2) O valor impresso para a e b são: a=10 e b=20

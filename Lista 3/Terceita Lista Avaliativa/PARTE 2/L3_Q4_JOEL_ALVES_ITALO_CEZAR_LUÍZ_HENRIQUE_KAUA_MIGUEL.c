@@ -1,0 +1,1 @@
+//Questão 4 da parte 2. Letra D) *p=30
