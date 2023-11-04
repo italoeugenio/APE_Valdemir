@@ -10,6 +10,7 @@ LUÍZ HENRIQUE SOUZA OLIVEIRA DOS SANTOS (UC22101329), KAUÃ MIGUEL COSTA MATOS 
 o ponteiro ao vetor. Agora, some mais um (+1) a cada posição do vetor usando o ponteiro (use *)
 */
 
+//oi
 int main()
 {
     int vetor[5] = {1, 2, 4, 6, 8};
